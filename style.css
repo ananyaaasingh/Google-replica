@@ -1,0 +1,111 @@
+body{
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #202124;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: flex-end;
+}
+/*.bento-menu {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 2px;
+    grid-row-gap: 2px;
+    height : 22px;
+    width : 22px;
+    padding: 5px 5px;
+  }
+  
+  .bento-dot {
+    width : 6px;
+    height: 6px;
+    border-radius: 999px;
+    background:#000000;
+    overflow: hidden;
+  }*/
+
+h4{
+    font-weight: lighter;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.google img{
+        
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 25%;
+}
+div{
+    display: block;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    border-style: solid ;
+    border-radius: 20px;
+    padding: 10px;
+    border-color: rgb(216, 214, 214);
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1px;
+}
+
+.igm{
+    display: flex;
+    justify-content: flex-start;
+    width: 900px;
+}
+
+.btn{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-primary{
+
+  height: 40px;
+  width: 140px;
+  background-color: #F2F2F2;
+  border: 1px solid white;
+  border-radius: 10px;
+  font-family: Arial;
+  cursor: pointer;
+}
+
+.lang{
+    text-align: center;
+    margin-top: 30px ;
+    font-size: 14px;
+}
+
+
+
+.f2{
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px 30px;
+    font-size: 15px;
+    color: #70757a;
+    left: 0;
+    bottom:0;
+    position: fixed;
+    width: 100%;
+}
+    
+
+
+
+
+
+
